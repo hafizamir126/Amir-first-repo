@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+
+p{
+    color: rgb(255, 0, 170);
+}
+button{
+    color: red;
+    background-color: black;
+}
+body{
+    background-color: #000f0f;
+}
+#heading{
+color: chocolate;
+}
